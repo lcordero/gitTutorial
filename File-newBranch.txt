@@ -1,3 +1,7 @@
 Archivo en mi nuevo branch (newBranch)
 
+
 Archivo que actualizo con nuevo código!!! 
+
+Archivo modificado por otro usuario
+
