@@ -1,1 +1,3 @@
 Archivo en mi nuevo branch (newBranch)
+
+Archivo modificado por otro usuario
